@@ -1,0 +1,30 @@
+{
+  "name": "electron-arduino-cli",
+  "version": "1.0.0",
+  "description": "Interfaz para arduino-cli (modo pruebas)",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oswaldovaldez1/electron-arduino-cli.git"
+  },
+  "keywords": [
+    "javascript",
+    "arduino",
+    "arduino-cli",
+    "electron"
+  ],
+  "author": "warlock",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oswaldovaldez1/electron-arduino-cli/issues"
+  },
+  "homepage": "https://github.com/oswaldovaldez1/electron-arduino-cli#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "fs-extra": "^9.0.1",
+    "yamljs": "^0.3.0"
+  }
+}
