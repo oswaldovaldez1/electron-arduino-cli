@@ -1,6 +1,6 @@
 {
   "name": "electron-arduino-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Interfaz para arduino-cli (modo pruebas)",
   "main": "index.js",
   "scripts": {
